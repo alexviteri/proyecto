@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Frames;
+package com.viter.modelo;
 
+import com.viter.ivista.*;
 import java.sql.*;
 /**
  *@author alex
